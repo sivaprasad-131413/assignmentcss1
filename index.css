@@ -1,0 +1,39 @@
+.text1{
+    color: red;
+}
+.text2{
+    color: red;
+    font-style: italic;
+}
+li{
+    color: brown;
+
+}
+.line1{
+    text-decoration: line-through;
+}
+.line2{
+    background-color: yellow;
+    font-weight: 700;
+}
+.line3{
+    text-decoration: underline;
+    font-style: italic;
+}
+.text2{
+    color: red;
+    font-style: italic;
+}
+.space{
+    letter-spacing: 4px;
+}
+p{
+    color: brown;
+}
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 500;
+}
